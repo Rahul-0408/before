@@ -10,7 +10,7 @@ import { handleResearchKickoff } from '@/lib/ai/tools/research-kickoff';
 import { validateChatAccess } from '@/lib/ai/actions/chat-validation';
 // import { geolocation } from '@vercel/functions';
 
-export const maxDuration = 800;
+export const maxDuration = 300;
 
 export async function POST(request: Request) {
   let requestBody: PostRequestBody;
