@@ -84,7 +84,7 @@
     "dotenv": "^17.2.1",
     "embla-carousel-react": "^8.6.0",
     "endent": "^2.1.0",
-    "exa-js": "^1.8.26",
+    "exa-js": "^1.8.27",
     "gpt-tokenizer": "^3.0.1",
     "hast-util-to-jsx-runtime": "^2.3.6",
     "husky": "^9.1.7",
