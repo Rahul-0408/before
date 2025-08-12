@@ -72,7 +72,7 @@
     "@tailwindcss/typography": "^0.5.16",
     "@upstash/redis": "^1.35.2",
     "@vercel/edge-config": "^1.4.0",
-    "@vercel/functions": "^2.2.5",
+    "@vercel/functions": "^2.2.8",
     "ai": "^4.3.19",
     "ansi-to-html": "^0.7.2",
     "chalk": "^5.4.1",
